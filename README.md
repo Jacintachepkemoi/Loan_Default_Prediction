@@ -1,7 +1,8 @@
 # Loan_Default_Prediction
 End-to-End Loan Default Risk Prediction Pipeline
 
-A comprehensive machine learning architecture designed to evaluate credit risk and predict loan defaults using a large-scale financial dataset containing 255,347 unique borrower records.
+A comprehensive machine learning architecture designed to evaluate credit risk and predict loan defaults using a large-scale financial dataset containing 255,347 unique borrower records.https://www.kaggle.com/datasets/nikhil1e9/loan-default?resource=download
+
 
 The Business Challenge and Strategy
 
